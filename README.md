@@ -1,1 +1,1 @@
-# Counter-temperature-convertor
+# Counter
